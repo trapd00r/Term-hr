@@ -1,4 +1,4 @@
-package Term::hr 0.001;
+package Term::hr 0.002;
 use strict;
 use warnings FATAL => 'all';
 

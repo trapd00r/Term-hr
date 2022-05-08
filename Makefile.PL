@@ -24,7 +24,7 @@ WriteMakefile1(
 
   NAME             => q{Term::hr},
   AUTHOR           => q{Magnus Woldrich <m@japh.se>},
-  ABSTRACT         => q{Color screen output using extended escape sequences},
+  ABSTRACT         => q{Define a thematic change in content of a terminal session},
   VERSION_FROM     => q{lib/Term/hr.pm},
   LICENSE          => q{perl},
   EXE_FILES        => [ glob('bin/*') ],
